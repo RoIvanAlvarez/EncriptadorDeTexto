@@ -30,7 +30,7 @@ main{
 
 #output__textarea{
     background: white;
-    background-image: url("/images/candado.png ");
+    background-image: url("/images/candado.png");
     background-size: 70%;
     background-repeat: no-repeat;
     border: none;
